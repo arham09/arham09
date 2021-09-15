@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arham-abiyan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:arham.abiyan@gmail.com?subject=hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![](https://github-readme-stats.vercel.app/api?username=arham09&&show_icons=true&count_private=true&line_height=40)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham09&hide=html)
 
 <hr>
