@@ -1,4 +1,4 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.pinimg.com/originals/4c/a6/ae/4ca6aec868a956801b2f70ed24a4f45d.gif))
+![Alt Text](https://i.pinimg.com/originals/4c/a6/ae/4ca6aec868a956801b2f70ed24a4f45d.gif)
 
 ### Connect with me:
 
