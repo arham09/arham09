@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/4c/a6/ae/4ca6aec868a956801b2f70ed24a4f45d.gif)
+![Alt Text](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 <h1>Hi There, I'm Arham Abiyan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
