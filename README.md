@@ -2,7 +2,7 @@
 
 <h1>Hi There, I'm Arham Abiyan</h1>
 
-I'm a **System Developer** working at [Brankas](https://brankas.com/).
+Currently working as **System Developer** at [Brankas](https://brankas.com/).
 
 ## Let's Connect :handshake:
 
