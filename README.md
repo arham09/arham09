@@ -2,7 +2,8 @@
 
 <h1>Hi There, I'm Arham Abiyan</h1>
 
-Currently working as **System Developer** at [Brankas](https://brankas.com/).
+Currently living in **(F)unemployment** live.
+Open to hire.
 
 ## Let's Connect :handshake:
 
