@@ -2,9 +2,6 @@
 
 <h1>Hi There, I'm Arham Abiyan</h1>
 
-Currently living in **(F)unemployment** live.
-Open to hire.
-
 ## Let's Connect :handshake:
 
 [![Twitter Badge](https://img.shields.io/badge/-@arham_abiyan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arham_abiyan)](https://twitter.com/arham_abiyan) [![Linkedin Badge](https://img.shields.io/badge/-arhamabiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arham-abiyan/)](https://www.linkedin.com/in/arham-abiyan/)
